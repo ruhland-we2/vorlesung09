@@ -12,7 +12,7 @@
  * 
  * 2.) mit Base58 encoding
  * curl http://localhost:8000/service/test-b58/79jdpA
- * 
+ * Base58 online encoding with https://appdevtools.com/base58-encoder-decoder
  */
 
 
