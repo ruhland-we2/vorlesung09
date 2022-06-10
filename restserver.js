@@ -3,6 +3,9 @@
  * npm i express
  * npm i helmet
  * npm i bs58
+ * npm i -D nodemon
+ * run for development with: $npx nodemon restserver.js
+ * 
  * NodeJS Restful Server, 03-2021
  * Klaus Ruhland, HSZG, Betriebssysteme II, Web Engineering II
  * Test with curl

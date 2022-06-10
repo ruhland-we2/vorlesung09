@@ -47,3 +47,11 @@ und als Parameter übergeben.
 Im Restserver wird der String dann wieder Base58 decodiert. 
 Hierzu wird ein weiteres npm Paket genutzt: bs58. Aus mehreren Base58 Paketen wird dieses gewählt, da es am aktuellsten ist und die meisten Downloads besitzt
 
+## nodemon
+
+Ein gutes Entwicklungswerkzeug ist *nodemon*. Dabei muss nodejs nicht immer ausgeführt werden, wenn sich Sourcen ändern
+
+```
+$npm i -D nodemon
+$npx nodemon restserver.js
+```
